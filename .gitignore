@@ -1,0 +1,6 @@
+.idea/
+bin/
+obj/
+BenchmarkDotNet.Artifacts
+*DotSettings.user
+.DS_Store
