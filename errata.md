@@ -51,3 +51,7 @@ The correct version of the 'A better benchmark' table:
 ## Page 559 (Chapter 8, Garbage Collector)
 
 > It **'s** worth noting that it's not always easy to correctly
+
+---
+
+Huge thanks to [Johannes Deml](https://github.com/JohannesDeml/), who helped to collect the above list of typos and mistakes.
